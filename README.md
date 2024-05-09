@@ -1,6 +1,6 @@
 # Notas-SQL
 
-##Crear una tabla
+## Crear una tabla
   ```
   CREATE TABLE nombre(Columna1 tipo,Columna2 tipo, ... ,ColumnaN tipo);
   ```
