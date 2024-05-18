@@ -38,7 +38,12 @@
   ```
   mysql> CREATE DATABASE prueba;
   ```
-
+## Acceder a la base de datos
+  ```
+  mysql> USE prueba;
+  ```
+  Ahora podras hacer consultas en esta base de datos
+  
 ## Ver bases de datos
   ```
   mysql> SHOW DATABASES;
