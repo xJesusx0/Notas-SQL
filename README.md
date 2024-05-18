@@ -1,6 +1,6 @@
 # Notas-SQL
 
-##Tipos de datos
+## Tipos de datos
 - Numericos
   - TINYINT
     Hasta 127
@@ -32,7 +32,7 @@
     AAAA-MM-DD HH:MM:SS
   - TIMESTAMP
     AA-MM-DD HH:MM:SS
-  -YEAR
+  - YEAR
     AA AAAA
 ## Crear una base de datos
   ```
